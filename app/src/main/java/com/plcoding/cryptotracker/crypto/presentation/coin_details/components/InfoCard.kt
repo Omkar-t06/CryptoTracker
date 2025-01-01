@@ -1,4 +1,4 @@
-package com.plcoding.cryptotracker.crypto.presentation.coin_details
+package com.plcoding.cryptotracker.crypto.presentation.coin_details.components
 
 import androidx.compose.animation.AnimatedContent
 import androidx.compose.foundation.BorderStroke
